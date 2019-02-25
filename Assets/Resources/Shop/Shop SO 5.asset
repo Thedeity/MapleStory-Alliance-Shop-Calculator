@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb2d18a3389cb2848941913bacc33e42, type: 3}
+  m_Name: Shop SO 5
+  m_EditorClassIdentifier: 
+  Sprite_List:
+  - {fileID: 21300000, guid: a5d553f3b0284914f8243fd4846e0d23, type: 3}
+  - {fileID: 21300000, guid: 7cd3ae2e200352745b0d7b506fb700d0, type: 3}
+  - {fileID: 21300000, guid: eba2d583d7dfef74a96baea501d1afeb, type: 3}
+  - {fileID: 21300000, guid: 07499f87128652643b0e306eeb01cd1f, type: 3}
